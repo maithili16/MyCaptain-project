@@ -1,0 +1,12 @@
+[1, 2, 'mango']
+['John']
+l2= ['John', 'Ron', 6, 7]
+l1= [1, 2, 'mango', 10, 11, 12, 'apple']
+2
+python
+(1, 2, 3, 'hello', 'python')
+dict_items([(1, 'a'), (2, 'b'), (3, 'c'), (4, 'd')])
+dict_values(['a', 'b', 'c', 'd'])
+d
+{1: 'a', 2: 'b', 3: 'c'}
+{1: 'a', 2: 'b'}
